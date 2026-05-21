@@ -1,0 +1,16 @@
+services:
+  app:
+    container_name: proyecto-final_app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: proyecto-final:latest
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+      LOG_LEVEL: info
+    volumes:
+      - ./logs:/app/logs
+    restart: unless-stopped

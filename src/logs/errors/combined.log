@@ -1,0 +1,24 @@
+[2026-05-20T13:29:06.643Z] [32minfo[39m: [32mEscuchando en http://localhost:8080[39m
+[2026-05-20T13:48:21.674Z] [36mhttp[39m: [36mSolicitud entrante: GET | URL: /[39m
+[2026-05-20T13:48:21.687Z] [36mhttp[39m: [36mServidor funcionando correctamente[39m
+[2026-05-20T13:48:21.926Z] [36mhttp[39m: [36mSolicitud entrante: GET | URL: /favicon.ico[39m
+[2026-05-21T00:25:59.675Z] [32minfo[39m: [32mEscuchando en http://localhost:8080[39m
+[2026-05-21T02:46:32.328Z] [32minfo[39m: [32mEscuchando en http://localhost:8080[39m
+[2026-05-21T02:47:04.548Z] [32minfo[39m: [32mEscuchando en http://localhost:8080[39m
+[2026-05-21T02:47:10.050Z] [32minfo[39m: [32mEscuchando en http://localhost:8080[39m
+[2026-05-21T02:48:02.941Z] [32minfo[39m: [32mEscuchando en http://localhost:8080[39m
+[2026-05-21T02:48:19.997Z] [32minfo[39m: [32mEscuchando en http://localhost:8080[39m
+[2026-05-21T02:54:14.347Z] [32minfo[39m: [32mEscuchando en http://localhost:8080[39m
+[2026-05-21T02:54:19.223Z] [32minfo[39m: [32mEscuchando en http://localhost:8080[39m
+[2026-05-21T02:54:37.438Z] [32minfo[39m: [32mEscuchando en http://localhost:8080[39m
+[2026-05-21T02:56:13.531Z] [36mhttp[39m: [36mSolicitud entrante: GET | URL: /favicon.ico[39m
+[2026-05-21T02:59:40.604Z] [36mhttp[39m: [36mSolicitud entrante: GET | URL: /api/users[39m
+[2026-05-21T02:59:40.642Z] [36mhttp[39m: [36mSolicitud entrante: POST | URL: /api/users[39m
+[2026-05-21T02:59:40.646Z] [36mhttp[39m: [36mSolicitud entrante: POST | URL: /api/users[39m
+[2026-05-21T02:59:40.652Z] [36mhttp[39m: [36mSolicitud entrante: POST | URL: /api/users/login[39m
+[2026-05-21T03:00:30.672Z] [36mhttp[39m: [36mSolicitud entrante: GET | URL: /api/users[39m
+[2026-05-21T03:00:30.680Z] [36mhttp[39m: [36mSolicitud entrante: POST | URL: /api/users[39m
+[2026-05-21T03:00:30.685Z] [36mhttp[39m: [36mSolicitud entrante: POST | URL: /api/users[39m
+[2026-05-21T03:00:30.692Z] [36mhttp[39m: [36mSolicitud entrante: POST | URL: /api/users/login[39m
+[2026-05-21T03:03:49.333Z] [32minfo[39m: [32mEscuchando en http://localhost:8080[39m
+[2026-05-21T03:05:19.014Z] [32minfo[39m: [32mEscuchando en http://localhost:8080[39m

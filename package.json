@@ -1,0 +1,36 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "mocha --recursive src/test/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.2",
+    "jsonwebtoken": "^9.0.3",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "winston": "^3.19.0",
+    "commander":"14.0.3",
+    "compression": "1.8.1",
+    "@faker-js/faker": "10.4.0",
+    "artillery": "2.0.32"
+  },
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "jest": "30.4.2",
+    "mocha": "^11.7.5",
+    "nodemon": "^3.1.14",
+    "supertest": "^7.2.2"
+  }
+}
