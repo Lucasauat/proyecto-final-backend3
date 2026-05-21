@@ -70,20 +70,24 @@ POST /api/adoptions/:uid/:pid
 
 FROM node:20-alpine
 
-WORKDIR /app
-COPY package*.json ./
-RUN npm ci --omit=dev
-COPY . .
-RUN mkdir -p src/logs/errors
-EXPOSE 8080
-ENV NODE_ENV=production
-ENV PORT=8080
-CMD [ "npm", "start" ]
+- WORKDIR /app
+- COPY package\*.json ./
+- RUN npm ci --omit=dev
+- COPY . .
+- RUN mkdir -p src/logs/errors
+- EXPOSE 8080
+- ENV NODE_ENV=production
+- ENV PORT=8080
+- CMD [ "npm", "start" ]
+
 ## Evidencias incluidas
+
 - Tests funcionales exitosos
 - Ejecución correcta de Docker
 - Imagen publicada en DockerHub
 - Funcionamiento de endpoints
 - Estructura del proyecto
+
 ## Autor
+
 Lucas
