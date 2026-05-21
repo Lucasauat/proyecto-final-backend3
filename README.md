@@ -90,4 +90,4 @@ FROM node:20-alpine
 
 ## Autor
 
-Lucas
+Lucas Auat
